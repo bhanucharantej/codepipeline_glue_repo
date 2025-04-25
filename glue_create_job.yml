@@ -11,7 +11,7 @@ Resources:
         "--TempDir": "s3://aws-glue-assets-116981774052-us-east-1/temp/"
       GlueVersion: "5.0"
       WorkerType: G.1X
-      NumberOfWorkers: 2
+      NumberOfWorkers: 3
 
 
   GlueServiceRole:
